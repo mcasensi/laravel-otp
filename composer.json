@@ -1,0 +1,13 @@
+{
+    "name": "justcode/laravel-otp",
+    "description": "Simple OTP Generator that validates and update",
+    "type": "library",
+    "authors": [
+        {
+            "name": "justcode",
+            "email": "69446440+mcasensi@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
